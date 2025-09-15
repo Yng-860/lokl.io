@@ -79,13 +79,7 @@ table tr,table td{
   width: 100%;
   height: 100vh; 
 }
-        p{
-    align-items: center;
-    text-align: center;
-    font-size: 90px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: darkblue;
-}
+   
 a {
     display: inline-block;
     background-color: #4fa51e;
@@ -101,6 +95,7 @@ a {
     top: 10px; 
     left: 10px; 
 }
+
 
 
 
