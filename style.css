@@ -1,0 +1,82 @@
+html{
+    justify-content: center;
+    align-items: center;
+    font-style: Verdana;
+    background: linear-gradient(to bottom,teal,aliceblue);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    
+    
+    
+}
+
+#navigation{
+    word-spacing: 10px;
+    text-align: center;
+    padding: 30px;
+   color: white;
+   font-size: 130%;
+  
+
+}
+
+
+
+a{
+    color: white;
+    
+}
+
+#naglowkowy{
+    color: white;
+    margin-top: -100px;
+    background-color: rgb(160, 82, 45);
+    opacity: 0.6;
+    padding: 10px;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#glowny{
+    color: white;
+    background-color: sandybrown;
+    padding: 30px;
+    text-align: center;
+}
+
+#stopka{
+    background-color: sienna;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+
+#wt{
+    text-shadow: 2px,2px,5px, black;
+
+}
+
+#tabela{
+    margin: 0 auto;
+    background-color: sienna;
+    width: 70%;
+    border-collapse: collapse;
+    border: 1px solid sandybrown;
+}
+
+table tr,table td{
+    border-collapse: collapse;
+    border: 1px solid sandybrown;
+}
+
+
+.image-background {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Dopasowanie wysokości sekcji do wysokości widocznego ekranu */
+}
+
